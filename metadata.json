@@ -1,0 +1,6 @@
+{
+  "name": "Tr. Moe Ko Tun Portfolio",
+  "description": "A professional landing page and interactive showcase for STEM academic educator Tr. Moe Ko Tun, featuring curriculum breakdowns, interactive physics and math simulators, certified credential highlights, and tuition rate estimators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
